@@ -1,2 +1,2 @@
 # Coding-Exercises
-Coding Exercises
+Code practice
